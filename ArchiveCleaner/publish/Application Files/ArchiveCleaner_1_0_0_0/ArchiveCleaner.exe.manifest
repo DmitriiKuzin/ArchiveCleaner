@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ArchiveCleaner.exe" version="1.0.0.0" publicKeyToken="673cc30c5a5b7444" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ArchiveCleaner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ArchiveCleaner.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchiveCleaner.exe" size="10696">
+      <assemblyIdentity name="ArchiveCleaner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4kkNs+Icxn/LEg/cWXNJaj5R9IH/QdtZx9JroG5kQ6k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ArchiveCleaner.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GUHS+OFx1101tsQAmSxc2HiZ6DFfxLEUn0Es0Znho/o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Paths.txt" size="15">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>S97olf3JdjNTsgZQu7vgy8Ybf2nvMRs4cP1I2n9sfcg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-D4SPHMN\1" issuerKeyHash="c0f444c38555e6f4e5aa7680646444d8c2b4be30" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Kw7d8IoVqn1RrQA/LpwwvTs/7DKyXMKjRg3R7Ni2puQ=</DigestValue></Reference></SignedInfo><SignatureValue>P0LQFB0IvoYxu5sarfpgfXNfVsjSeTgauOyR5EnN273UMke6hqA/wDfcLzKBZRZK5t+vyL/Re+ufAbIACGM81MgH+eD9UbUWCOfTSo7pr+JcT6Le6ScBUjG+3GH1Bl9HoPRVHPXOHWIS5YMJvG5Hd0BHqW/RithjHYl3Li0E8Yw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xr2Ltg0ASHmlaN6h1unYnJyV0XkIRbnuVm1C0MUmh8PNNwm0OKoNVX8uEMC5Ymh0iBXN/Fyz5eHMy6e+1w92JinPyr6RLAC3WYgctlVt5LjxMdKafheX7wstLdcF/v4dPh8JglPL/QMcx3UfEr1lNRoCIv8zJ3IVBY237J4bxm0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e4a6b6d8ecd10d46a3c25cb232ec3f3bbd309c2e3f00ad517daa158af0dd0e2b" Description="" Url=""><as:assemblyIdentity name="ArchiveCleaner.exe" version="1.0.0.0" publicKeyToken="673cc30c5a5b7444" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-D4SPHMN\1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yGFhk46RCi57REJxs4uOhNkGIhiqCjUWD9Wo8QYC7mo=</DigestValue></Reference></SignedInfo><SignatureValue>gmkdTKl0B/csOwvSxEDkWZbR9oqZu69vrVALaeiJCa9SCa3T+drQyS7tEozSQMla4sZwLhmO7EJQyuh1MFVgl1oxD/Wa0Pz+02VfCuKfhw+5fPJhxW/81xMZ3IOByJYVZrfeSxBDFrgyzT0kkUjFLAYhxAKmZmpSV/usPrejIks=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xr2Ltg0ASHmlaN6h1unYnJyV0XkIRbnuVm1C0MUmh8PNNwm0OKoNVX8uEMC5Ymh0iBXN/Fyz5eHMy6e+1w92JinPyr6RLAC3WYgctlVt5LjxMdKafheX7wstLdcF/v4dPh8JglPL/QMcx3UfEr1lNRoCIv8zJ3IVBY237J4bxm0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQLZPfkF+bppRJ9FyJ/WnW5jANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIARABFAFMASwBUAE8AUAAtAEQANABTAFAASABNAE4AXAAxMB4XDTIwMDIyOTIxNTExN1oXDTIxMDMwMTAzNTExN1owLTErMCkGA1UEAx4iAEQARQBTAEsAVABPAFAALQBEADQAUwBQAEgATQBOAFwAMTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxr2Ltg0ASHmlaN6h1unYnJyV0XkIRbnuVm1C0MUmh8PNNwm0OKoNVX8uEMC5Ymh0iBXN/Fyz5eHMy6e+1w92JinPyr6RLAC3WYgctlVt5LjxMdKafheX7wstLdcF/v4dPh8JglPL/QMcx3UfEr1lNRoCIv8zJ3IVBY237J4bxm0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBMWGciIKCDV9GyyMf5K0/nF0FydrwEcEmWlFO6YOaQRwTBTKav9jedov4+COnVKQnBXr/5EFMnxytHQ/JdAp5kHegbeRAErrtipCnLOkP9+oGG1nyu0D8Ovbehkrf/Lk/LlvUwCkTuUWHZS1z5j2RfLNtaSVRBUKEuG1xD7ENa0Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

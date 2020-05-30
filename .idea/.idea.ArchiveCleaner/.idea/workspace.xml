@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="466dc626-22f4-4e8f-88cc-6c2c5e7208a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ArchiveCleaner/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ArchiveCleaner/v14/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ArchiveCleaner/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ArchiveCleaner/v16/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ArchiveCleaner/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/ArchiveCleaner.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/ArchiveCleaner.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/ArchiveCleaner_TemporaryKey.pfx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/ArchiveCleaner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/ArchiveCleaner.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/ArchiveCleanerPaths.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/CheckForCompletedOutboundCalculatePageCount.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/CheckForCompletedOutboundMakeRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/CheckForCompletedOutboundOperation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/CheckForCompletedOutboundRequestModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/CheckForCompletedoutboundProcessResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/Consts.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/MercuryMessageBodyGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/MercuryOutboundOperation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/1/Новая папка/ModuleRegistrator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.vshost.application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.vshost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.vshost.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleaner.vshost.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/ArchiveCleanerPaths.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-06-09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-11-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-18-27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-25-04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-44-39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-48-38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-51-57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/Logs/07-04-2020-05-53-30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/bin/Debug/app.publish/ArchiveCleaner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/ArchiveCleaner.application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/ArchiveCleaner.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/ArchiveCleaner.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/ArchiveCleaner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/ArchiveCleaner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/ArchiveCleaner.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/Application Files/ArchiveCleaner_1_0_0_0/ArchiveCleaner.application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/Application Files/ArchiveCleaner_1_0_0_0/ArchiveCleaner.exe.config.deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/Application Files/ArchiveCleaner_1_0_0_0/ArchiveCleaner.exe.deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/Application Files/ArchiveCleaner_1_0_0_0/ArchiveCleaner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/Application Files/ArchiveCleaner_1_0_0_0/Paths.txt.deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/ArchiveCleaner.application" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchiveCleaner/publish/setup.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BA0DAC83-1D00-4D16-ABB3-DA2D502DBBD8/e1/d7f1f42f/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ArchiveCleaner/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ArchiveCleaner/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YW5dleV2WNIKHpgvVARaDdKoFp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ArchiveCleaner" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ArchiveCleaner/ArchiveCleaner.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="466dc626-22f4-4e8f-88cc-6c2c5e7208a4" name="Default Changelist" comment="" />
+      <created>1583045599162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583045599162</updated>
+      <workItem from="1583045602573" duration="1530000" />
+      <workItem from="1583049746729" duration="3102000" />
+      <workItem from="1586264871020" duration="7102000" />
+      <workItem from="1590843047035" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="776" height="337" key="DebuggerActiveHint" timestamp="1586267017515">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="776" height="337" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1586267017515" />
+    <state width="1181" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1583049977333" />
+    <state x="706" y="403" key="Github.ShareDialog" timestamp="1590843144733">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="706" y="403" key="Github.ShareDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1590843144733" />
+    <state x="562" y="211" key="Github.UntrackedFilesDialog" timestamp="1590843155307">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="562" y="211" key="Github.UntrackedFilesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1590843155307" />
+    <state width="3029" height="336" key="GridCell.Tab.0.bottom" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504372" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.0.center" timestamp="1586271982409">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504372" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982409" />
+    <state width="3029" height="336" key="GridCell.Tab.0.left" timestamp="1586271982409">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504372" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982409" />
+    <state width="3029" height="336" key="GridCell.Tab.0.right" timestamp="1586271982409">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504372" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982409" />
+    <state width="3029" height="336" key="GridCell.Tab.1.bottom" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.1.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.1.center" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.1.center/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.1.left" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.1.left/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.1.right" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.1.right/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.2.bottom" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.2.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.2.center" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.2.center/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.2.left" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.2.left/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.2.right" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.2.right/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.3.bottom" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.3.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.3.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.3.center" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.3.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.3.center/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.3.left" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.3.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.3.left/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.3.right" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.3.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.3.right/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.4.bottom" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.4.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.4.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.4.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.4.center" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.4.center/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.4.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.4.center/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.4.left" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.4.left/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.4.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.4.left/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state width="3029" height="336" key="GridCell.Tab.4.right" timestamp="1586271982410">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1638" height="336" key="GridCell.Tab.4.right/0.0.1680.1010@0.0.1680.1010" timestamp="1586269504294" />
+    <state width="2517" height="492" key="GridCell.Tab.4.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583052850656" />
+    <state width="3029" height="336" key="GridCell.Tab.4.right/0.0.3072.1688@0.0.3072.1688" timestamp="1586271982410" />
+    <state x="395" y="117" key="SettingsEditor" timestamp="1583049769919">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="222" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1583046462310" />
+    <state x="395" y="117" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583049769919" />
+  </component>
+</project>

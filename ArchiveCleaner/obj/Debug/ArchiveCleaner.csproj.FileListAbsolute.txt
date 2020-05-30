@@ -1,0 +1,10 @@
+c:\users\1\documents\visual studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\bin\Debug\ArchiveCleaner.exe.config
+c:\users\1\documents\visual studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\obj\Debug\ArchiveCleaner.exe
+c:\users\1\documents\visual studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\obj\Debug\ArchiveCleaner.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\bin\Debug\ArchiveCleaner.exe.manifest
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\bin\Debug\ArchiveCleaner.application
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\bin\Debug\ArchiveCleaner.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\bin\Debug\ArchiveCleaner.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\obj\Debug\ArchiveCleaner.exe.manifest
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\obj\Debug\ArchiveCleaner.application
+C:\Users\1\Documents\Visual Studio 2015\Projects\ArchiveCleaner\ArchiveCleaner\obj\Debug\ArchiveCleaner.csprojResolveAssemblyReference.cache
